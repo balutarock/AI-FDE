@@ -11,4 +11,3 @@ Rag Categories
 	2. Graph RAG
 	3. SQL RAG
 	4. Reasoning based RAG
-	5. 
