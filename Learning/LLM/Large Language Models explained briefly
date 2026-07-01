@@ -1,0 +1,32 @@
+🤖 **What I Learned About Large Language Models (LLMs)**
+
+📌 **Next-Word Prediction**
+LLMs work by predicting the next word (token) based on the previous context.
+
+📌 **Before Transformers**
+Earlier language models processed text sequentially, one token at a time, making training slower and less efficient.
+
+📌 **Transformer Architecture**
+Google introduced the Transformer architecture in 2017, allowing models to process all input tokens in parallel during training, making them significantly faster and more scalable.
+
+📌 **Attention Mechanism**
+Attention helps the model identify which words in the input are most relevant, enabling it to better understand context before predicting the next token.
+
+📌 **Forward Pass**
+During training, the model performs a forward pass to predict the next token.
+
+📌 **Backpropagation**
+The prediction is compared with the correct answer, and backpropagation updates billions of parameters (weights) to reduce errors.
+
+📌 **Pre-training**
+The model learns language patterns by training on massive amounts of text from books, articles, websites, and other sources.
+
+📌 **RLHF (Reinforcement Learning with Human Feedback)**
+After pre-training, human feedback helps fine-tune the model to generate more helpful, safe, and natural responses.
+
+📌 **Emergent Behavior**
+Many impressive LLM capabilities aren't explicitly programmed—they emerge naturally as the model learns from large-scale data.
+
+🚀 Next, I'm looking forward to learning about **embeddings, tokenization, inference, RAG, fine-tuning, AI agents, and the mathematics behind LLMs.**
+
+#AI #LLM #MachineLearning #DeepLearning #Transformers #GenerativeAI #LearningInPublic
